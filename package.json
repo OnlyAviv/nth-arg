@@ -1,0 +1,25 @@
+{
+  "name": "nth-arg",
+  "version": "1.0.0",
+  "description": "Get the nth-arg for a callback function",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redyetidev/nth-arg.git"
+  },
+  "keywords": [
+    "nth",
+    "arg",
+    "function",
+    "callback"
+  ],
+  "author": "RedYetiDev <redyetidev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/redyetidev/nth-arg/issues"
+  },
+  "homepage": "https://github.com/redyetidev/nth-arg#readme"
+}
