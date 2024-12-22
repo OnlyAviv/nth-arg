@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onlyaviv/nth-arg.git"
+    "url": "git+https://github.com/avivkeller/nth-arg.git"
   },
   "keywords": [
     "nth",
@@ -16,10 +16,10 @@
     "function",
     "callback"
   ],
-  "author": "Aviv Keller <hello@onlyaviv.com>",
+  "author": "Aviv Keller <me@aviv.sh>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/onlyaviv/nth-arg/issues"
+    "url": "https://github.com/avivkeller/nth-arg/issues"
   },
-  "homepage": "https://github.com/onlyaviv/nth-arg#readme"
+  "homepage": "https://github.com/avivkeller/nth-arg#readme"
 }
